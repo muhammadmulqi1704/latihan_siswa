@@ -46,6 +46,9 @@
                                     <a class="nav-link" href="{{ route('siswa.index') }}">
                                         siswa
                                     </a>
+                                    <a class="nav-link" href="{{ route('pembelian.index') }}">
+                                        pembelian
+                                    </a>
                                 </li>
                     </ul>
 
